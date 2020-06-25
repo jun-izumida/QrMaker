@@ -1,0 +1,15 @@
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\QrMaker.exe
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\QrMaker.pdb
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\zxing.dll
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\zxing.presentation.dll
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\zxing.pdb
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\zxing.xml
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\zxing.presentation.pdb
+C:\Users\luvib\source\repos\QrMaker\QrMaker\bin\Release\zxing.presentation.xml
+C:\Users\luvib\source\repos\QrMaker\QrMaker\obj\Release\QrMaker.Form1.resources
+C:\Users\luvib\source\repos\QrMaker\QrMaker\obj\Release\QrMaker.Properties.Resources.resources
+C:\Users\luvib\source\repos\QrMaker\QrMaker\obj\Release\QrMaker.csproj.GenerateResource.cache
+C:\Users\luvib\source\repos\QrMaker\QrMaker\obj\Release\QrMaker.csproj.CoreCompileInputs.cache
+C:\Users\luvib\source\repos\QrMaker\QrMaker\obj\Release\QrMaker.csproj.CopyComplete
+C:\Users\luvib\source\repos\QrMaker\QrMaker\obj\Release\QrMaker.exe
+C:\Users\luvib\source\repos\QrMaker\QrMaker\obj\Release\QrMaker.pdb
